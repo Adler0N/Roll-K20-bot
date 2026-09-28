@@ -9,7 +9,7 @@ from aiogram import F
 
 
 
-BOT_TOKEN="8852218366:AAH_IWmq728JvOuS0RHBwfh6mDXtPId08VA"
+BOT_TOKEN=""
 
 bot = Bot(token=BOT_TOKEN)
 
