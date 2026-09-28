@@ -72,4 +72,4 @@ python rollk20bot.py
 
 ## Лицензия
 
-MIT (или что у тебя в LICENSE)
+MIT 
